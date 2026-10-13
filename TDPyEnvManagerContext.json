@@ -1,0 +1,8 @@
+{
+    "active": true,
+    "mode": "Python vEnv",
+    "envName": "Mediapipe_vEnv",
+    "installPath": "D:\\Dev\\Mediapipe",
+    "pythonVersion": "3.11",
+    "pythonVersionNoDot": "311"
+}
